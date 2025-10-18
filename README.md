@@ -1,4 +1,5 @@
 To run the app
+
 1.start the database in cd Desktop/darkbay-kmitl/database/ with the command 
 sudo systemctl start mongod
 sudo systemctl status mongod
